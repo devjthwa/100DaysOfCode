@@ -1,0 +1,20 @@
+1st intro
+2nd amazing python programs
+3rd modules & pip
+4th first program hello.py
+5th escape sequences day5.py
+6th variables and data types day5.py
+7th operators and give exercise calc.py
+8th solution of calc exercise calc.py
+9th type casting in hello.py
+10th user input
+11th strings
+12th 
+13th
+14th
+15th
+16th
+17th for loops
+18th while loop
+19th
+20th
