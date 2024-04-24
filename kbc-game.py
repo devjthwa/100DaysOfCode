@@ -13,3 +13,5 @@ for i in questions:
     if (q1 != answers[0], q2 != answers[1], q3 != answers[2], q4 != answers[3]):
         break
 print("Well played, Your score is : ",score)
+
+#  error
